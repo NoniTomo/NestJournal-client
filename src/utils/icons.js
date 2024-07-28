@@ -1,0 +1,46 @@
+import { createSvgIcon } from "@mui/material";
+
+export const StackIcon = createSvgIcon(
+  <svg
+    version="1.1"
+    id="Layer_1"
+    xmlns="http://www.w3.org/2000/svg"
+    width="800px"
+    height="800px"
+    viewBox="0 0 57 64"
+  >
+    <g id="Page-1">
+      <g id="Stack" transform="translate(2.000000, 1.000000)">
+        <path
+          id="Shape_3_"
+          fill="none"
+          stroke="#6B6C6E"
+          strokeWidth="2"
+          d="M48.9,39.3l4.2,2.5c0.9,0.9,0.9,2.4,0,3.3L28.5,61.3c-0.9,0.9-2.4,0.9-3.3,0L0.6,45.1c-0.9-0.9-0.9-2.4,0-3.3l4.2-2.5"
+        />
+        <path
+          id="Shape_2_"
+          fill="none"
+          stroke="#6B6C6E"
+          strokeWidth="2"
+          d="M48.9,30.6l4.2,2.5c0.9,0.9,0.9,2.4,0,3.3L28.5,52.6c-0.9,0.9-2.4,0.9-3.3,0L0.6,36.4c-0.9-0.9-0.9-2.4,0-3.3l4.2-2.5"
+        />
+        <path
+          id="Shape_1_"
+          fill="none"
+          stroke="#6B6C6E"
+          strokeWidth="2"
+          d="M48.9,22l4.2,2.5c0.9,0.9,0.9,2.4,0,3.3L28.5,44c-0.9,0.9-2.4,0.9-3.3,0L0.6,27.8c-0.9-0.9-0.9-2.4,0-3.3L4.8,22"
+        />
+        <path
+          id="Shape"
+          fill="none"
+          stroke="#6B6C6E"
+          strokeWidth="2"
+          d="M53.1,15.7c0.9,0.9,0.9,2.4,0,3.3L28.5,35.2c-0.9,0.9-2.4,0.9-3.3,0L0.6,19c-0.9-0.9-0.9-2.4,0-3.3L25.2,1.1c0.9-0.9,2.4-0.9,3.3,0L53.1,15.7L53.1,15.7z"
+        />
+      </g>
+    </g>
+  </svg>,
+  "Stack"
+);
